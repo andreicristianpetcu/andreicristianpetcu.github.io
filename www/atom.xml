@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Blog</title>
+    <link>andreicristianpetcu.github.io</link>
+    <updated>2015-10-17T13:34:53Z</updated>
+    <author>
+        <name>Andrei Cristian Petcu</name>
+        <email>andreip@posteo.net</email>
+        <uri>andreicristianpetcu.github.io</uri>
+    </author>
+    <link rel="alternate" href="andreicristianpetcu.github.io"/>
+    <subtitle>GNU/Linux, Security and Free Software</subtitle>
+    <rights>Andrei Cristian Petcu 2015</rights>
+    <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>andreicristianpetcu.github.io/blog/2015/10/17/hello-world/</id>
+        <link href="andreicristianpetcu.github.io/blog/2015/10/17/hello-world/">
+        </link>
+        <updated>2015-10-17T11:56:02Z</updated>
+        <summary type="html"><![CDATA[<h2 id="hello-there-stranger-http-example-com-">Hello there <a href="http://example.com">stranger</a></h2>
+<p>Super cool security thing</p>
+]]></summary>
+    </entry>
+</feed>

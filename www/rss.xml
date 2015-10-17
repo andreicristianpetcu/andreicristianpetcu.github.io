@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Blog</title>
+        <description>GNU/Linux, Security and Free Software</description>
+        <link>andreicristianpetcu.github.io</link>
+        <lastBuildDate>Sat, 17 Oct 2015 13:34:53 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <copyright>Andrei Cristian Petcu 2015</copyright>
+        <generator>Feed for Node.js</generator>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <link>andreicristianpetcu.github.io/blog/2015/10/17/hello-world/</link>
+            <guid>andreicristianpetcu.github.io/blog/2015/10/17/hello-world/</guid>
+            <pubDate>Sat, 17 Oct 2015 11:56:02 GMT</pubDate>
+            <description><![CDATA[<h2 id="hello-there-stranger-http-example-com-">Hello there <a href="http://example.com">stranger</a></h2>
+<p>Super cool security thing</p>
+]]></description>
+            <content:encoded/>
+        </item>
+    </channel>
+</rss>
