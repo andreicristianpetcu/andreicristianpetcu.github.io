@@ -186,7 +186,7 @@ module.exports = function (grunt) {
             dist: {
                 options: {
                     sassDir: 'app/sass',
-                    cssDir: 'build/css'
+                    cssDir: 'www/static/css'
                 }
             }
         },
